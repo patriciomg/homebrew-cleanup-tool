@@ -1,8 +1,8 @@
 class CleanupTool < Formula
   desc "Terminal-based disk cleanup tool for macOS"
   homepage "https://github.com/patriciomg/cleanup-tool"
-  url "https://github.com/patriciomg/cleanup-tool/releases/download/v0.4.4/cleanup-tool-v0.4.4-darwin-universal.tar.gz"
-  sha256 "314f63da75c805417cde317963ac4861ef08aad4b6e6b5bf47ed33b94da00388"
+  url "https://github.com/patriciomg/cleanup-tool/releases/download/v0.4.5/cleanup-tool-v0.4.5-darwin-universal.tar.gz"
+  sha256 "35ded59ef23ad9448ea793438a01d76409c4701a879433ae4b72bb36b9f9425d"
   license "MIT"
 
   depends_on macos: :big_sur
